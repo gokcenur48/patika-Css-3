@@ -1,0 +1,12 @@
+tbody{
+    text-align: center;
+    vertical-align: middle;
+    display: table-row-group;
+}
+table{
+    margin: auto;
+    border: 0px 0px 0px 0px;
+    width: 90%;
+    text-align: start;
+    border-spacing: 2px;
+}
